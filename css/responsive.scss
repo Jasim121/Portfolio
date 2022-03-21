@@ -1,0 +1,21 @@
+@media (max-width: 991px) {
+  .navbar-nav.menu_nav {
+    text-align: center;
+    background-color: #6e57e0;
+    color: #fff;
+  }
+.cardarea{
+  margin: 0 auto;
+}
+.about h2, .skill_area h2, .services h2, .portfolio h2,.testomonial h2, contact h2{
+  font-size: 7.5rem;
+}
+}
+
+@media (max-width: 767px) {
+  .about_img img{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+}
